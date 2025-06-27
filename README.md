@@ -12,7 +12,39 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
+The Responsive Weather App is a simple web application that allows users to search for any city and get real-time weather updates including temperature, humidity, weather condition, and wind speed.
+
+ in This project we uses HTML, CSS, and JavaScript , and fetches live weather data from the OpenWeatherMap API.
+ 
+ Features:
+ 
+ .Search for weather in any city worldwide
+
+. Get temperature in Celsius.
+
+. See humidity and wind speed.
+
+. Weather description (e.g., clear sky, light rain).
+
+. Fully responsive design .
+
+. Error handling for invalid cities or empty input.
+
+API Type: RESTful Web Service
+
+#working
+
+.User types a city name and clicks the Search button.
+
+.JavaScript captures the input and sends an HTTP GET request to OpenWeatherMap.
+
+.API responds with current weather data in JSON.
+
+.JavaScript parses the response and displays it dynamically on the page.
+
+.If the city is invalid, an error message is shown.
+
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/436a8e65-f466-400e-8ef1-66e308f3f1c2)
+
