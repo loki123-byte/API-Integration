@@ -46,5 +46,6 @@ API Type: RESTful Web Service
 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/21f20bec-3c48-4a89-9cfc-e97f6f5abe88)
 
 
